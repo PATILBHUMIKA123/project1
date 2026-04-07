@@ -1,0 +1,14 @@
+<div class="container">
+    <form class="form-wrapper">
+        <h1>Sign In</h1>
+        <div class="field">
+            <input type="text" id="user" placeholder=" " required>
+            <label for="user">Username</label>
+        </div>
+        <div class="field">
+            <input type="password" id="pass" placeholder=" " required>
+            <label for="pass">Password</label>
+        </div>
+        <button class="btn-submit">Login</button>
+    </form>
+</div>
